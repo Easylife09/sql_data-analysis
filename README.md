@@ -1,1 +1,91 @@
-Todo : update later
+# Top-Paying Data Analyst Jobs
+
+## Introduction
+
+This project explores the highest-paying Data Analyst job opportunities
+using SQL and PostgreSQL.
+
+The goal of the analysis is to identify the highest-paying Data Analyst
+roles available worldwide and understand which companies are offering
+these opportunities.
+
+## Business Questions
+
+- What are the highest-paying Data Analyst jobs?
+- Which companies offer the highest salaries?
+- What are the salary ranges of the highest-paying roles?
+- Which companies are offering Data Analyst opportunities that can be
+  performed from anywhere in the world?
+
+## Tools Used
+
+- PostgreSQL
+- SQL
+- Git
+- GitHub
+
+## Analysis
+
+I used SQL to analyse job posting data and identify the highest-paying
+Data Analyst positions.
+
+The analysis included:
+
+- Filtering the dataset for Data Analyst positions
+- Filtering for jobs with available salary information
+- Filtering job opportunities with an "Anywhere" location
+- Joining job posting data with company information
+- Sorting jobs by average annual salary
+- Identifying the top-paying companies and positions
+
+## Top-Paying Data Analyst Jobs
+
+The analysis identified several high-paying opportunities, including:
+
+| Company | Average Annual Salary |
+|---|---:|
+| Mantys | $650,000 |
+| Meta | $336,500 |
+| AT&T | $255,829.50 |
+| Pinterest Job Advertisements | $232,423 |
+| UCLA Health | $217,000 |
+| SmartAsset | $205,000 |
+| Inclusively | $189,309 |
+| Motional | $189,000 |
+| SmartAsset | $186,000 |
+
+## Key Findings
+
+The analysis shows that some Data Analyst positions can offer
+significantly high salaries.
+
+The highest-paying role identified in this analysis was associated
+with Mantys, with an average annual salary of approximately $650,000.
+
+Other major companies, including Meta, AT&T, Pinterest and SmartAsset,
+also appeared among the highest-paying opportunities.
+
+The analysis also demonstrates that some high-paying Data Analyst
+opportunities are advertised as "Anywhere," suggesting that location
+flexibility can exist alongside highly competitive salaries.
+
+## Conclusion
+
+This project demonstrates how SQL can be used to explore real-world
+job market data and identify salary opportunities.
+
+The findings can help job seekers understand where high-paying Data
+Analyst opportunities exist and which companies may offer competitive
+compensation.
+
+## Future Analysis
+
+Future projects will build on this analysis to explore the relationship
+between skills, demand, and salary in the Data Analyst job market.
+
+The analysis will focus on:
+
+- Top-Paying Job Skills
+- In-Demand Skills
+- Top-Paying Skills
+- Most Optimal Skills
