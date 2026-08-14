@@ -1,0 +1,8 @@
+/.vscode
+/1_create_database (2).sql
+/3_modify_tables (2).sql
+/job_postings_fact (2).csv
+/postgres.session.sql
+/skills_dim (1).csv
+/skills_job_dim (2).csv
+/test.sql
