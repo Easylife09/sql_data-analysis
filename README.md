@@ -89,3 +89,4 @@ The analysis will focus on:
 - In-Demand Skills
 - Top-Paying Skills
 - Most Optimal Skills
+<img width="1210" height="328" alt="Top paying Data Analyst jobs" src="https://github.com/user-attachments/assets/3c35cc8f-c30f-4b00-98b5-f9395513f2bf" />
