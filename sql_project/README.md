@@ -112,7 +112,7 @@ This analysis explores the skills associated with the highest-paying Data Analys
 
 ### Results
 
-![Top Paying Job Skills](sql_project/Top%20paying%20job%20skills.png)
+![Top Paying Job Skills](Top%20paying%20job%20skills.png)
 
 
 
@@ -140,7 +140,7 @@ The top 5 most demanded skills identified were:
 4. Tableau
 5. Power BI
 
-![Top Demanded Skills](sql_project/Top%205%20demanded%20skills.png)
+![Top Demanded Skills](Top%205%20demanded%20skills.png)
 
 
 
@@ -162,7 +162,7 @@ This analysis explores the skills associated with the highest-paying Data Analys
 
 The analysis highlights the skills associated with the highest average salaries among Data Analyst roles.
 
-![Top Paying Job Skills](sql_project/Top%20paying%20skills.png)
+![Top Paying Job Skills](Top%20paying%20skills.png)
 
 
 
@@ -192,4 +192,4 @@ The leading skills include:
 
 ### Result Screenshot
 
-![Optimal Skills](sql_project/Optimal%20skills.png)
+![Optimal Skills](Optimal%20skills.png)
