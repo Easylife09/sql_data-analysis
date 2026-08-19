@@ -113,3 +113,31 @@ This analysis explores the skills associated with the highest-paying Data Analys
 ### Results
 
 ![Top Paying Job Skills](sql_project/Top%20paying%20job%20skills.png)
+
+
+
+
+
+## Top Demanded Skills
+
+This analysis identifies the most in-demand skills for Data Analyst roles based on the number of job postings requiring each skill.
+
+### Key Analysis
+
+- Identified the most frequently requested skills for Data Analyst positions
+- Joined job posting and skills tables to measure skill demand
+- Counted the number of job postings associated with each skill
+- Ranked the skills by demand
+- Focused the analysis specifically on Data Analyst roles
+
+### Results
+
+The top 5 most demanded skills identified were:
+
+1. SQL
+2. Excel
+3. Python
+4. Tableau
+5. Power BI
+
+![Top Demanded Skills](sql_project/Top%20demanded%20skills.png)
