@@ -140,4 +140,4 @@ The top 5 most demanded skills identified were:
 4. Tableau
 5. Power BI
 
-![Top Demanded Skills](sql_project/Top%20demanded%20skills.png)
+![Top Demanded Skills](sql_project/Top%205%20demanded%20skills.png)
