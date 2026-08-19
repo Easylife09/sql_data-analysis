@@ -162,7 +162,7 @@ This analysis explores the skills associated with the highest-paying Data Analys
 
 The analysis highlights the skills associated with the highest average salaries among Data Analyst roles.
 
-![Top Paying Job Skills](Top%20paying%20skills.png)
+![Top Paying Job Skills](sql_project/Top%20paying%20skills.png)
 
 
 
@@ -192,4 +192,4 @@ The leading skills include:
 
 ### Result Screenshot
 
-![Optimal Skills](Optimal%20skills.png)
+![Optimal Skills](sql_project/Optimal%20skills.png)
