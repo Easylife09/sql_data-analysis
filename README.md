@@ -141,3 +141,25 @@ The top 5 most demanded skills identified were:
 5. Power BI
 
 ![Top Demanded Skills](sql_project/Top%205%20demanded%20skills.png)
+
+
+
+
+## Top Paying Job Skills
+
+This analysis explores the skills associated with the highest-paying Data Analyst positions.
+
+### Key Analysis
+
+- Identified skills associated with Data Analyst roles
+- Calculated the average salary associated with each skill
+- Filtered out records with missing salary values
+- Grouped the results by skill
+- Ranked skills based on average salary
+- Focused the analysis specifically on Data Analyst positions
+
+### Results
+
+The analysis highlights the skills associated with the highest average salaries among Data Analyst roles.
+
+![Top Paying Job Skills](Top%20paying%20skills.png)
