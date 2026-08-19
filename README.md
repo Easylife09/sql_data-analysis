@@ -163,3 +163,33 @@ This analysis explores the skills associated with the highest-paying Data Analys
 The analysis highlights the skills associated with the highest average salaries among Data Analyst roles.
 
 ![Top Paying Job Skills](Top%20paying%20skills.png)
+
+
+
+## Optimal Skills
+
+This analysis identifies the most optimal skills for Data Analyst roles by combining skill demand with average salary. The goal is to identify skills that are both frequently requested by employers and associated with strong earning potential.
+
+### Key Analysis
+
+- Identified skills with strong demand across Data Analyst job postings
+- Calculated the average salary associated with each skill
+- Counted the number of job postings requiring each skill
+- Combined skill demand and salary to identify valuable skills
+- Focused the analysis specifically on Data Analyst positions
+
+### Results
+
+The analysis shows that several technical skills offer a strong combination of demand and salary potential.
+
+The leading skills include:
+
+1. **SQL** — high demand with strong salary potential
+2. **Excel** — widely requested across Data Analyst roles
+3. **Python** — strong demand and high average salary
+4. **Tableau** — strong demand with competitive salaries
+5. **R** — lower demand than the leading skills but associated with a high average salary
+
+### Result Screenshot
+
+![Optimal Skills](Optimal%20skills.png)
